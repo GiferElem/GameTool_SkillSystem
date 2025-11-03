@@ -1,0 +1,13 @@
+{
+    "name": "SkillSystem.Editor",
+    "references": [
+        "SkillSystem.Runtime"
+    ],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": []
+}

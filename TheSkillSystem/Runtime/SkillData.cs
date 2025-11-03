@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace SkillSystem {
+namespace Skill {
     [CreateAssetMenu(fileName = "Skill", menuName = "New Skill/Skill Data", order = 1)]
 public class SkillData : ScriptableObject {
     public int skill_ID;

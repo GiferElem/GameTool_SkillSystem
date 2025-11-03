@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace SkillSystem {
+namespace Skill {
 public static class SkillEffectApply {
     //应用效果
     public static void ApplyEffect(SkillEffect effect, Unit user, Unit target, Vector3 target_position, SkillData skill_data) {

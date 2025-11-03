@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-namespace SkillSystem {
+namespace Skill {
 [CreateAssetMenu(fileName = "Skill", menuName = "New Skill/Skill Effect/ProjectileEffect")]
 public class ProjectileEffect : SkillEffect {
     [Header("投掷物设置")]

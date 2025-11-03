@@ -1,4 +1,4 @@
-namespace SkillSystem{//关系类型
+namespace Skill {//关系类型
 public enum RelationshipType {
     Friendly,//友军
     Hostile,//敌人

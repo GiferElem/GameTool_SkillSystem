@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace SkillSystem {
+namespace Skill {
 public abstract class SkillEffect : ScriptableObject {
     [Header("ª˘¥°…Ë÷√")]
     public EffectType effect_type = EffectType.Direct;

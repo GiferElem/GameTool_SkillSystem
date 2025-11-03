@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-namespace SkillSystem{
+namespace Skill {
 public class Unit : MonoBehaviour {
     [Header("»ù´¡ÊôÐÔ")]
     public string unit_name;

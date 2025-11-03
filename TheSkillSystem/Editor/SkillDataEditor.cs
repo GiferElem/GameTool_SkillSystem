@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
+namespace Skill{
 [CustomEditor(typeof(SkillData))]
-public class SkillDataEditor : Editor{
+public class SkillDataEditor : Editor {
     public override void OnInspectorGUI() {
         //1.绘制默认界面
         DrawDefaultInspector();
@@ -20,4 +21,4 @@ public class SkillDataEditor : Editor{
             EditorUtility.SetDirty(skillData);
         }
     }
-}
+}}

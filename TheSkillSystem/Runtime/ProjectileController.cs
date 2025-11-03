@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace SkillSystem {
+namespace Skill {
 public class ProjectileController : MonoBehaviour {
     private Action on_complete;
     private Unit user;

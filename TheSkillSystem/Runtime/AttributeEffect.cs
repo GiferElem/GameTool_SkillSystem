@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace SkillSystem {
+namespace Skill {
 [CreateAssetMenu(fileName = "Skill", menuName = "New Skill/Skill Effect/AttributeEffect")]
 public class AttributeEffect : SkillEffect {
     [Header(" Ù–‘…Ë÷√")]

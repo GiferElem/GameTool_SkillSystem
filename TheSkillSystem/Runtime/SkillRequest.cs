@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-namespace SkillSystem {
+namespace Skill {
 public class SkillRequest {
     public Vector3 target_position;
     public Unit target_unit;

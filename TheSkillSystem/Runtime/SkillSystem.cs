@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using static UnityEngine.GraphicsBuffer;
 
-namespace SkillSystem {
+namespace Skill {
 public class SkillSystem : MonoBehaviour {
     [Header("ººƒ‹≈‰÷√")]
     public SkillData skill_data;

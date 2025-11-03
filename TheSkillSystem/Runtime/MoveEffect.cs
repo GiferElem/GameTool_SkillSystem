@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace SkillSystem {
+namespace Skill {
 [CreateAssetMenu(fileName = "Skill", menuName = "New Skill/Skill Effect/MoveEffect")]
 public class MoveEffect : SkillEffect {
     [Header("ª˜ÕÀ…Ë÷√")]
