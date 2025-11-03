@@ -1,0 +1,33 @@
+# Unity 临时文件
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity 项目设置
+/[Pp]rojectSettings/
+/[Uu]serSettings/
+
+# 自动生成的文件
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# VS Code 设置
+.vscode/
+
+# 编译文件
+*.dll
+*.pdb
+
+#开发文件
+/Development/
+/Prefab/
+/Scenes/

@@ -1,0 +1,16 @@
+{
+    "name": "com.yourname.skillsystem",
+    "displayName": "Skill System",
+    "version": "1.0.0",
+    "description": "A flexible skill system for 2D and 3D games that allows skills to be used like equipment",
+    "unity": "2020.3",
+    "dependencies": {
+        "com.unity.inputsystem": "1.0.0"
+    },
+    "keywords": ["skill", "ability", "combat", "rpg", "2d", "3d"],
+    "author": {
+        "name": "Your Name",
+        "email": "your@email.com",
+        "url": "https://yourwebsite.com"
+    }
+}
