@@ -1,16 +1,15 @@
 {
-    "name": "com.yourname.skillsystem",
-    "displayName": "Skill System",
+    "name": "com.giferelem.skillsystem",
+    "displayName": "GameTool Skill System",
     "version": "1.0.0",
-    "description": "A flexible skill system for 2D and 3D games that allows skills to be used like equipment",
+    "description": "A flexible skill system for 2D and 3D games that works like equipping weapons",
     "unity": "2020.3",
     "dependencies": {
         "com.unity.inputsystem": "1.0.0"
     },
-    "keywords": ["skill", "ability", "combat", "rpg", "2d", "3d"],
+    "keywords": ["skill", "ability", "combat", "rpg", "weapon"],
     "author": {
-        "name": "Your Name",
-        "email": "your@email.com",
-        "url": "https://yourwebsite.com"
+        "name": "GiferElem",
+        "url": "https://github.com/GiferElem"
     }
 }
